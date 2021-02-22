@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: My-GitHubAction-Basic
+name: My-GitHubAction-Basics
 env:
   APPLICATION_NAME   : "MyFlask"
   DEPLOY_PACKAGE_NAME: "flask-deploy-ver-${{ github.sha }}"
