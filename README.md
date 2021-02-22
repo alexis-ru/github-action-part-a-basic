@@ -2,7 +2,7 @@
 
 
 Status of Last Deployment:<br>
-<img src="https://github.com/alexis-ru/github-actions-part-1-basics/workflows/My-GitHubAction-Basics/badge.svg?branch=master"><br>
+<img src="https://github.com/alexis-ru/github-actions-part-1-basic/workflows/My-GitHubAction-Basics/badge.svg?branch=master"><br>
 
 
 Copyleft by Aexey 2021.
