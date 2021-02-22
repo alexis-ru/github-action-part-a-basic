@@ -2,7 +2,7 @@
 
 
 Status of Last Deployment:<br>
-<img src="https://github.com/alexis-ru/github-action-part-a-basic/workflows/My-GitHubAction-Basics/badge.svg?branch=master"><br>
+<img src="https://github.com/alexis-ru/github-action-part-a-basic/workflows/My-GitHubAction-Basic/badge.svg?branch=master"><br>
 
 
-Copyleft by Aexey 2021.
+Copyleft by Alexey 2021.
